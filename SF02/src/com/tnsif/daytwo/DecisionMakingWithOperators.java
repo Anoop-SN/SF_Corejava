@@ -4,7 +4,7 @@ package com.tnsif.daytwo;
 public class DecisionMakingWithOperators {
 	public static void main(String[] args) {
 		int x = 8, y = 7;
-		int a = 10;
+		int a = 11;
 		int b = 11;
 
 		if (x >= y) {
